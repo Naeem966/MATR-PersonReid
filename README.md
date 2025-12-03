@@ -33,7 +33,10 @@ Person re-identification aims to match images of the same individual captured by
    pip install torch torchvision transformers scikit-learn pillow tqdm
    ```
 
-3. **Download pre-trained models:**
+3. **Download pre-trained models used in the Framework:**
    - Vision Transformer (ViT)
    - Sentence-BERT
    - CLIP
+4. Download the model file
+https://drive.google.com/file/d/16_BoHBNJ5iBlwBeaVQwPhsahJmxzuoBQ/view?usp=sharing
+
